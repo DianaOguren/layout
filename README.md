@@ -1,1 +1,1 @@
-#Основы веб-дизайна. Макет сайта
+#Web-design. Website layout
